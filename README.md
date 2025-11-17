@@ -2,16 +2,27 @@
 Program sederhana Sistem Informasi Perpustakaan yang mengimplementasikan konsep Object-Oriented Programming (OOP) dengan Clean Architecture.
 🏗️ Struktur Project
 perpustakaan-app/
+
 ├── 📄 Main.java
+
 ├── 📂 entity/
+
 │ ├── 📄 Buku.java
+
 │ ├── 📄 Kategori.java
+
 │ └── 📄 Penulis.java
+
 ├── 📂 repository/
+
 │ └── 📄 DataDummyRepository.java
+
 ├── 📂 service/
+
 │ └── 📄 TampilanService.java
+
 └── 📂 app/
+
 └── 📄 Aplikasi.java
 
 📋 Deskripsi Class
